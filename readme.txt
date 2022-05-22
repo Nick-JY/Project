@@ -5,3 +5,5 @@ Git tracks changes of files.
 I love git.
 Creating a new branch is quick and simple.
 I love the world.
+I love the world very much.
+I don't want to die.
