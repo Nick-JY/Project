@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 I love the world.
 I love the world very much.
 I don't want to die.
+I love her very much,I don't want to lose her.
